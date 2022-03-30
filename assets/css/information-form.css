@@ -1,0 +1,112 @@
+.information-image {
+    height: 20vw;
+    width: 100%;
+    background: url('../images/info-image1.webp') no-repeat center center;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .heading h2 {
+    margin-left: 100px;
+    padding-top: 10px;
+    color: blue;
+    font-size: xx-large;
+  }
+  
+  .heading p {
+    margin-left: 100px;
+    font-size: larger;
+  }
+  
+  
+  table {
+    border-spacing: 100px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  table,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  
+  }
+  
+  th {
+    background-color: rgb(190, 55, 55);
+  }
+  
+  .days {
+    background-color: rgb(30, 137, 199);
+    width: 20%;
+  }
+  
+  .data-div {
+    padding-top: 100px;
+    text-align: center;
+    margin-left: 80px;
+  
+  }
+  
+  .data-col {
+  
+    text-align: left;
+    text-indent: 3em;
+  }
+
+  .price-table p {
+
+    margin-left: 80px;
+    font-size: larger;
+  }
+
+  .price {
+    padding-top: 6px;
+    width: 70%;
+    margin-left: 80px;
+  
+  }
+  
+  @media only screen and (max-width: 992px) {
+  
+  
+    .data-col {
+  
+      text-align: inherit;
+      text-indent: 0em;
+    }
+  }
+  
+  @media only screen and (max-width: 600px) {
+  
+
+
+    .heading h2 {
+      font-size: 6vmin;
+      margin-left: 31px;
+    }
+  
+    .heading p {
+      font-size: 4vmin;
+      margin-left: 31px;
+    }
+  
+    .data-col {
+  
+      text-align: inherit;
+      text-indent: 0em;
+    }
+
+    table {
+      margin-left: -12px;
+    }
+
+    table.price {
+      margin-left: 50px;
+    }
+  }
