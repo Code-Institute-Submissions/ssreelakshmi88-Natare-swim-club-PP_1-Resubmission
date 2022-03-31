@@ -113,7 +113,7 @@ h2 {
     font-family: Oswald;
     text-transform: uppercase;
     letter-spacing: 2px;
-    width: 350px;
+    width: 266px;
     height: 6vw;
     padding-top: 40px;
     padding-left: 15px;
@@ -189,8 +189,10 @@ footer {
 
     .cover-text {
         left: 5px;
+        
     }
-}
+    }
+
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
@@ -234,6 +236,7 @@ footer {
         top: 10px;
         font-size: medium;
         height: 15vw;
+        width: 290px;
     }
 
     .what,
