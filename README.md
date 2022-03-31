@@ -3,6 +3,8 @@ Sport club
 # Natare Club Website
 
 **Natare Club**
+
+
 A one stop shop for swimming enthusiasts and people who would like to improve their health through a low impact sport activity. This is what we offer at Natare Club and this is the main webpage of the Natare Club. Natare, which literally in latin means “to swim”, offers a wide range of activities that is tailored for each individual depending on the age and fitness level. All these details and much more can be accessed via an intuitive and simple interface without any hassle. The website is built to ensure easy accessibility via various devices ranging from mobiles to laptops and desktops.
 
 
@@ -42,15 +44,19 @@ b. As a returning visitor, I would like to sign up for an activity.
 
 - **Color scheme**
     - The main colours used in the website are shades of blue and white.
--**Typography**
-    - The Ostwald font is the main font used throughout the website with Sans Serif as the fallback font. Ostwald font is appropriate for designing this web page.
+    
+- **Typography**
+   - The Ostwald font is the main font used throughout the website with Sans Serif as the fallback font. Ostwald font is appropriate for designing this web page.
+    
 - **Imagery**
+
     - A background image has been placed in the webpage to highlight the main activity of the club, swimming.
 
+**Wireframes**
 
 - Home Page Wireframe
 
-	### 	Wireframes![Wireframe 001](https://user-images.githubusercontent.com/97182442/160857191-3a72af23-4c1e-4bf7-8c77-8f7219f0d3bb.jpg)
+	### 	![Wireframe 001](https://user-images.githubusercontent.com/97182442/160857191-3a72af23-4c1e-4bf7-8c77-8f7219f0d3bb.jpg)
 
 - Mobile Wireframe
 
@@ -77,15 +83,24 @@ b. As a returning visitor, I would like to sign up for an activity.
 - CSS
 
 1. **Hover.css:**
-o	Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+
+o Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+
 2. **Google Fonts:**
-o	Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+
+o Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+
 3. **Font Awesome:**
-o	Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
+o Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+
 4. **Git**
-o	Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
+o Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+
 5. **GitHub:**
-o	GitHub is used to store the projects code after being pushed from Git.
+
+o GitHub is used to store the projects code after being pushed from Git.
 
 ### Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -108,7 +123,8 @@ In lighthouse devtools, I checked that the colors and the fonts are contrasting 
 
 
 
-![lighthouse result](https://user-images.githubusercontent.com/97182442/160860939-13276bcc-1df8-4406-b22d-c980db8b150b.png)
+![lighthouse testing](https://user-images.githubusercontent.com/97182442/161145525-19ffea86-c03f-440e-9f01-4ac7c1fa1b86.png)
+
 
 
   
@@ -185,10 +201,11 @@ i. As a returning visitor, I would like to find more information about a particu
  
  d. After registration the user can join the club. 
  
- ![signup page](https://user-images.githubusercontent.com/97182442/160869210-c67848fc-6926-4e5b-8ce8-263bfbb04809.png)
+
 
  
- 
+ ![signup page](https://user-images.githubusercontent.com/97182442/161145075-98a70387-798f-41de-a461-ee0c8f017db9.png)
+
  **Frequent Visitor Goals**
 
 i. As a frequent user, I would like to mix various activities offered by the club.
@@ -226,7 +243,8 @@ iii. As a frequent user, I would like to share my experience.
 
 ### Known Bugs
 
-1. In some mobile devices the navigation bar seems to be small. Also, the image pushes the footer towards other sides.
+1. In some mobile devices the font size of the navigation bar seems to be small. 
+2. In some devices, image pushes the footer towards other sides.
 
 ### Deployment
 **GitHub Pages**
@@ -259,9 +277,12 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
 
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/ssreelakshmi88/Project-portfolio_1.git
+
 7. Press Enter. Your local clone will be created.
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
+$ git clone https://github.com/ssreelakshmi88/Project-portfolio_1.git
+
 > *Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
