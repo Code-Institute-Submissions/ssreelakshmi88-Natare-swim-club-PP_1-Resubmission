@@ -77,10 +77,18 @@ legend {
     padding-left: 32px;
     text-align: center;
     font-size: 100%;
-    background-color: #786bf1;
-    color: #fafafa;
+    background-color: #007bff;
+    border-color: #007bff;
+    cursor: pointer;
+    color: #ffff;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 
 }
+
+.join-button:hover {
+    color: #212529;
+    text-decoration: none;
+  }
 
 @media only screen and (max-width: 992px) {
     .sign-up-form {
@@ -92,7 +100,7 @@ legend {
 
 @media only screen and (max-width: 600px) {
     header {
-        width: 110vw;
+        width: 100vw;
         padding-bottom: 41px;
     }
 
@@ -104,7 +112,7 @@ legend {
 
     .sign-up-form {
         width: 100vw;
-        height: 125vw;
+        height: 80vh;
         box-shadow: none;
         background: none;
 
@@ -122,7 +130,7 @@ legend {
 
     .social-networks {
 
-        margin-left: 60px;
+        margin-left: -16px;
     }
 
 
