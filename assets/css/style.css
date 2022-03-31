@@ -125,15 +125,13 @@ h2 {
 
 .what {
     height: 13vw;
-    background: url('../images/background.webp')center center / cover no-repeat fixed;
+    background: url('../images/background.webp') center center / cover no-repeat fixed;
     margin-top: 18px;
     text-align: center;
     padding-top: 12px;
     color: #ffffff;
     text-decoration: underline;
     padding-bottom: 12px;
-
-
 }
 
 .list {
@@ -146,11 +144,12 @@ h2 {
     text-transform: none;
     display: inline-block;
 }
-.list p{
 
-   
+.list p {
+
+
     margin-right: 79px;
-    
+
 }
 
 footer {
@@ -189,15 +188,15 @@ footer {
 
     .cover-text {
         left: 5px;
-        
+
     }
-    }
+}
 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
 
-   
+
 
     .logo {
         float: none;
@@ -247,7 +246,8 @@ footer {
         text-align: center;
     }
 }
-.list p{
+
+.list p {
     text-align: justify;
     text-indent: 10em;
 }
