@@ -1,6 +1,7 @@
 body {
 
     background-color: rgba(4, 71, 71, 0.671);
+    height: 80vh;
 }
 
 header {
@@ -88,9 +89,15 @@ legend {
 .join-button:hover {
     color: #212529;
     text-decoration: none;
-  }
+}
 
 @media only screen and (max-width: 992px) {
+
+
+    body {
+        height: 80vh;
+    }
+
     .sign-up-form {
         width: 30vw;
         height: 70vw;
