@@ -33,7 +33,7 @@
    padding: 0 6px;
    padding-top: 20px;
    float: left;
-   width: 24.99999%;
+   width: 22%;
 
  }
 
@@ -56,8 +56,6 @@
      margin: auto;
    }
 
-
-
    .social-networks li {
 
      margin: 3%;
@@ -68,11 +66,9 @@
 
    }
 
-
  }
 
  @media only screen and (max-width: 600px) {
-
 
    .responsive {
      width: 100%;
