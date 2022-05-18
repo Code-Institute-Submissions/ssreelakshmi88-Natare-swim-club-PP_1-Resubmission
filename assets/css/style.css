@@ -4,7 +4,6 @@
 *,
 *::after,
 *::before {
-    box-sizing: border-box;
     margin: 0;
     border: none;
 }
@@ -41,7 +40,6 @@ h2 {
 
 .logo {
     float: left;
-    width: 0%;
     height: 0%;
     font-size: 280%;
     margin-left: 30px;
