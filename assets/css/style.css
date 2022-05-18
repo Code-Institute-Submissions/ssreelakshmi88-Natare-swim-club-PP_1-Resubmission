@@ -31,12 +31,16 @@ h2 {
     display: none;
 }
 
+
+
 .navbar-container {
     display: flex;
     justify-content: space-between;
     height: 64px;
     align-items: center;
 }
+
+
 
 .logo {
     float: left;
@@ -69,7 +73,7 @@ h2 {
     line-height: 75px;
 }
 
-.menu li {
+.menu_items {
     float: right;
     list-style-type: none;
     margin-right: 20px;
@@ -218,6 +222,16 @@ footer {
         opacity: 0.95;
     }
 
+    .navbar-container {
+        display: flex;
+        justify-content: space-between;
+        height: 100vh;
+        width: 95vw;
+        align-items: center;
+        margin-left: 2%;
+    }
+
+
     .navbar-container input[type="checkbox"],
     .navbar-container .hamburger-lines {
         display: block;
@@ -269,18 +283,29 @@ footer {
         transition: transform 0.4s ease-in-out;
     }
 
-    .navbar .menu {
+    .menu {
         padding-top: 100px;
         background: #fff;
         height: 100vh;
-        max-width: 300px;
+        width: 100vw;
         transform: translate(-150%);
         display: flex;
         flex-direction: column;
-        margin-left: -40px;
-        padding-left: 50px;
+        /* margin-left: -40px; */
+        /* padding-left: 50px; */
         transition: transform 0.5s ease-in-out;
         box-shadow: 5px 0px 10px 0px #aaa;
+    }
+
+    .menu_items {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        width: 100%;
+        padding-top: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     .navbar .menu li {
@@ -305,15 +330,19 @@ footer {
         transform: rotate(-35deg);
     }
 
+
     .navbar .menu li {
         margin-bottom: -0.5rem;
         font-size: 3.5rem;
         font-weight: 300;
     }
 
+
+
     .menu {
         display: flex;
     }
+
 
     .logo {
         float: none;
@@ -327,8 +356,6 @@ footer {
     }
 
     .menu li {
-
-
         padding-left: 0;
         margin: 0.5%;
 
