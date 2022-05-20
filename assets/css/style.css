@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300&display=swap');
 
-
 *,
 *::after,
 *::before {
@@ -30,7 +29,6 @@ h2 {
 .navbar .hamburger-lines {
     display: none;
 }
-
 
 
 .navbar-container {
@@ -65,8 +63,6 @@ h2 {
     list-style-type: none;
     margin-right: 20px;
     text-transform: uppercase;
-
-
 }
 
 .menu li a {
@@ -155,7 +151,6 @@ h2 {
 
 .list p {
 
-
     margin-right: 79px;
 
 }
@@ -190,16 +185,30 @@ footer {
 
     .what {
 
-        height: 18vw;
+        height: 60vw;
+        padding-top: 118px;
+        margin-top: 150px;
         font-size: 1.5vmax;
+        margin-bottom: 100px;
     }
 
     .cover-text {
         left: 5px;
 
     }
-}
 
+    .list {
+
+        padding-top: 53px;
+        line-height: 2.6;
+    }
+
+    .main-outer {
+        height: 30vh;
+
+    }
+
+}
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
@@ -382,4 +391,12 @@ footer {
 .list p {
     text-align: justify;
     text-indent: 10em;
+}
+
+/* Extremely small devices (portrait tablets and large phones, 375px and up) */
+@media only screen and (max-width: 375px) {
+
+    .list p {
+        margin-right: 28px;
+    }
 }

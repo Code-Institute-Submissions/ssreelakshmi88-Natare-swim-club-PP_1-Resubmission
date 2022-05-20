@@ -82,7 +82,7 @@
    }
 
    .social-networks i {
-     margin: 2%;
+     margin: 6%;
      margin-right: 30px;
      padding-right: 3px;
      align-items: center;
@@ -92,7 +92,10 @@
 
  @media only screen and (max-width: 375px) {
 
-   gallery img {
+
+
+
+   .gallery img {
      width: 110%;
      height: auto;
    }
