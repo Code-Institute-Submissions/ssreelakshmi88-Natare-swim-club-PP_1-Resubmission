@@ -16,28 +16,28 @@ A one stop shop for swimming enthusiasts and people who would like to improve th
 
 **First time Visitor Goals:**
    
--          - a. As a first time user, I want to understand the benefits of swimming.
+- a. As a first time user, I want to understand the benefits of swimming.
 
--         - b. A first time user, I would like to know what activities are offered by the club and the associated costs.
+- b. A first time user, I would like to know what activities are offered by the club and the associated costs.
 
--         - c. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
+- c. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
 
 
  **Returning Visitor Goals:**
   
--          - a. As a returning visitor, I would like to find more information about a   particular activity.
+- a. As a returning visitor, I would like to find more information about a   particular activity.
 
--           - b. As a returning visitor, I would like to sign up for an activity.
+- b. As a returning visitor, I would like to sign up for an activity.
 
 
 **Frequent User Goals:**
 
--           - a. As a frequent user, I would like to mix various activities offered by the club.
+- a. As a frequent user, I would like to mix various activities offered by the club.
 
--            - b. As a frequent user, I would like to know if new activities are offered by the club.
+- b. As a frequent user, I would like to know if new activities are offered by the club.
 
 
--            - c. As a frequent user, I would like to share my experience.
+- c. As a frequent user, I would like to share my experience.
 
 
 
