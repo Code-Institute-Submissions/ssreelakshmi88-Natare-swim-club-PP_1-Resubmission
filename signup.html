@@ -35,8 +35,8 @@
                 </div>
         </nav>
     </header>
+    <h1>Sign Up Now</h1>
     <div class="sign-up-form">
-        <h1>Sign Up Now</h1>
         <form method="POST" action="https://formdump.codeinstitute.net/" class="form-section">
             <label for="fname">First Name</label>
             <input id="fname" name="first_name" type="text" required class="text-input" placeholder="Your name">
@@ -48,7 +48,7 @@
                 <legend>Activities</legend>
                 <div>
                     <label for="fav-activity" class="block-label">Choose the activity?</label>
-                    <input id="fav-activity" list="activities" name="fav-activity" required>
+                    <input id="fav-activity" class="fav-activity" list="activities" name="fav-activity" required>
                     <datalist id="activities">
                         <option value="Swimming lesson">
                         <option value="Float fit">
@@ -63,8 +63,6 @@
             </fieldset>
 
             <input class="join-button" type="submit" value="Submit!">
-
-
         </form>
     </div>
     <br>
