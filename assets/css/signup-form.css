@@ -101,7 +101,6 @@ legend {
     text-decoration: none;
 }
 
-
 /* MEDIA QUERIES */
 
 /* Medium devices (landscape tablets, 820px and up) */
@@ -114,8 +113,6 @@ legend {
 
 /* Medium devices (landscape tablets, 820px and up) */
 @media only screen and (max-width: 768px) {
-
-
     body {
         height: 80vh;
     }
