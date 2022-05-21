@@ -16,28 +16,28 @@ A one stop shop for swimming enthusiasts and people who would like to improve th
 
 **First time Visitor Goals:**
    
-- a. As a first time user, I want to understand the benefits of swimming.
+ - a. As a first time user, I want to understand the benefits of swimming.
 
-- b. A first time user, I would like to know what activities are offered by the club and the associated costs.
+ - b. A first time user, I would like to know what activities are offered by the club and the associated costs.
 
-- c. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
+ - c. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
 
 
  **Returning Visitor Goals:**
   
-- a. As a returning visitor, I would like to find more information about a   particular activity.
+ - a. As a returning visitor, I would like to find more information about a   particular activity.
 
-- b. As a returning visitor, I would like to sign up for an activity.
+ - b. As a returning visitor, I would like to sign up for an activity.
 
 
 **Frequent User Goals:**
 
-- a. As a frequent user, I would like to mix various activities offered by the club.
+ - a. As a frequent user, I would like to mix various activities offered by the club.
 
-- b. As a frequent user, I would like to know if new activities are offered by the club.
+ - b. As a frequent user, I would like to know if new activities are offered by the club.
 
 
-- c. As a frequent user, I would like to share my experience.
+ - c. As a frequent user, I would like to share my experience.
 
 
 
@@ -75,7 +75,10 @@ A one stop shop for swimming enthusiasts and people who would like to improve th
 ![Contact Wireframe](https://user-images.githubusercontent.com/97182442/160903820-faf81ee2-ad01-4bab-9237-056b1eec8a3c.jpeg)
 
 ### Features
-- Responsive on different devices.
+- The website is responsive on the following devices:
+  - Medium devices (landscape tablets, 768px and up)
+  - Small devices (portrait tablets and large phones, 600px and up)
+  - Extremely small devices (portrait tablets and large phones, 375px and up)
 - Interactive elements for getting attention of users and making the website more attractive.
 
 ### Technologies Used
@@ -83,28 +86,27 @@ A one stop shop for swimming enthusiasts and people who would like to improve th
 - HTML
 - CSS
 
-1. **Hover.css:**
 
-o Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 
-2. **Google Fonts:**
+1. **Google Fonts:**
 
 o Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 
-3. **Font Awesome:**
+2. **Font Awesome:**
 
 o Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 
-4. **Git**
+3. **Git**
 
 o Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 
-5. **GitHub:**
+4. **GitHub:**
 
 o GitHub is used to store the projects code after being pushed from Git.
 
 ### Testing
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
 - **W3C Markup Validator**
    - **HTML**
    No errors were found when passing through the official W3C Markup validator.
@@ -136,9 +138,9 @@ In lighthouse devtools, I checked that the colors and the fonts are contrasting 
 i. 	As a first time user, I want to understand benefits of swimming. 
 
 
- a. Health benefits of swimming is indicated in the homepage.
+ - a. Health benefits of swimming is indicated in the homepage.
  
- b. Pictures used in the homepage highlights the main activity offered by the club.
+ - b. Pictures used in the homepage highlights the main activity offered by the club.
  
  ![home page](https://user-images.githubusercontent.com/97182442/160867204-eaf27146-d6e6-45f5-b1e9-e5b9dbf97672.png)
 
@@ -149,13 +151,13 @@ i. 	As a first time user, I want to understand benefits of swimming.
 ii. A first time user, I would like to know what activities are offered by the club and the associated costs.
 
 
- a. There are various tabs within the navigation bar which are self-explanatory. The “Activities” tab is specifically tailored for first time users to browse through all activities offered at the club.
+ - a. There are various tabs within the navigation bar which are self-explanatory. The “Activities” tab is specifically tailored for first time users to browse through all activities offered at the club.
  
  
- b. Picture associated with each activity enables the user to form a mental image to help them in decide the best activity for them.
+ - b. Picture associated with each activity enables the user to form a mental image to help them in decide the best activity for them.
  
  
- c. The end goal, is to ensure that a first time visitor acquire sufficient information for deciding the best activity for them. To facilitate this, a section covering tariff information for each activity is provided.
+ - c. The end goal, is to ensure that a first time visitor acquire sufficient information for deciding the best activity for them. To facilitate this, a section covering tariff information for each activity is provided.
  
  
  
@@ -165,7 +167,7 @@ ii. A first time user, I would like to know what activities are offered by the c
 
 iii. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
 
- a. Links to social media where the user can read testimonials and reviews provided by our customers.
+ - a. Links to social media where the user can read testimonials and reviews provided by our customers.
  
  
  
@@ -177,10 +179,10 @@ iii. As a first time user, I would like to read user reviews/testimonials to bet
 i. As a returning visitor, I would like to find more information about a particular activity. 
 
 
- a. To address any questions that a returning visitor might have, an enquiry section has been created where the user can get in touch with us with their questions.
+ - a. To address any questions that a returning visitor might have, an enquiry section has been created where the user can get in touch with us with their questions.
  
  
- b. The user can use this section to ask questions or send feedback to the club.
+ - b. The user can use this section to ask questions or send feedback to the club.
  
  
  
@@ -190,17 +192,17 @@ i. As a returning visitor, I would like to find more information about a particu
  ii. As a returning visitor, I would like to sign up for an activity. 
  
  
- a. A returning visitor can sign up by registering with their details via the signup page.
+ - a. A returning visitor can sign up by registering with their details via the signup page.
  
  
- b. The sign up section has a form to collect sufficient details required to register them for an activity.
+ - b. The sign up section has a form to collect sufficient details required to register them for an activity.
  
  
- c. The page collects the clients name, email address.
+ - c. The page collects the clients name, email address.
  
  
  
- d. After registration the user can join the club. 
+ - d. After registration the user can join the club. 
  
 
 
@@ -212,21 +214,21 @@ i. As a returning visitor, I would like to find more information about a particu
 i. As a frequent user, I would like to mix various activities offered by the club.
 
 
- a. A section covering timing of all activities has been provided to enable users to register for more than one activity according to their convenience. 
+ - a. A section covering timing of all activities has been provided to enable users to register for more than one activity according to their convenience. 
 
- b. Opening timings are mentioned correctly for weekdays and weekends.
+ - b. Opening timings are mentioned correctly for weekdays and weekends.
  
 
 ii. As a frequent user, I would like to know if new activities are offered by the club.
 
 
- a. A frequent user can check if there are new activities that can be accessed through the “activities” tab via navigation bar.
+ - a. A frequent user can check if there are new activities that can be accessed through the “activities” tab via navigation bar.
  
 
 iii. As a frequent user, I would like to share my experience.
 
 
- a. Provision for accessing social media has been made available as footer on each page where the individual can share their experience.
+ - a. Provision for accessing social media has been made available as footer on each page where the individual can share their experience.
  
  
  
@@ -236,16 +238,16 @@ iii. As a frequent user, I would like to share my experience.
  
  
 ### Further Testing
-1. The website was tested on Google Chrome, Internet Explorer and Microsoft Edge.
-2. The website was checked on different standard devices such as desktop, laptop and iPhone using the devtools device toolbar.
+1. The website was tested on Google Chrome, Mozilla Firefox, Opera and Microsoft Edge.
+2. The website was checked on different standard devices such as desktop, laptop, few android (Oneplus 8 Pro, Samsung Galaxy) and iPhone (IPhone SE/XR, IPhone 6/7/8) using the devtools device toolbar.
 3. I have confirmed the working of form, requires entries in every field, will only accept an email in the email field, and also working of submit button.
 3. Friends were asked to review the site to overcome bugs and user experience issues.
 
 
 ### Known Bugs
 
-1. In some mobile devices the font size of the navigation bar seems to be small. 
-2. In some devices, image pushes the footer towards other sides.
+ 1. In some devices, the footer has some mis-alignments.
+ 2. Logo has been pushed towards the edge.
 
 ### Deployment
 **GitHub Pages**
@@ -294,7 +296,11 @@ $ git clone https://github.com/ssreelakshmi88/Project-portfolio_1.git
 
 **Code**
 
-The code to make home page and footer were taken CI Love Running Project.
+- The code to make home page and footer were taken CI Love Running Project.
+
+- Device breakpoints for media query were referred from w3schools.com (https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp)
+
+- The code for creating hamburger menu was taken from https://codepen.io/alvarotrigo/pen/XWejzjR
 
 
 **Content**
@@ -309,6 +315,7 @@ All images were taken from pexels.com.
 **Acknowledgements**
 
 - A continuous and supportive feedback from the mentor.
+- Suportive feedback from my friend.
 - Tutor support at Code Institute.
 
 
