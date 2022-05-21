@@ -9,7 +9,7 @@ A one stop shop for swimming enthusiasts and people who would like to improve th
 
 
 
-![Responsive](https://user-images.githubusercontent.com/97182442/160856629-f03ed798-2d70-4579-974e-d9f342cce710.png)
+![responsive page_screenshot](https://user-images.githubusercontent.com/97182442/169671545-9ca42a13-640a-4680-b477-70e6ec698750.png)
 
 
 **User stories**
@@ -126,7 +126,8 @@ In lighthouse devtools, I checked that the colors and the fonts are contrasting 
 
 
 
-![lighthouse testing](https://user-images.githubusercontent.com/97182442/161145525-19ffea86-c03f-440e-9f01-4ac7c1fa1b86.png)
+
+![Light house report](https://user-images.githubusercontent.com/97182442/169671847-055a54f0-5851-46ab-9993-62232dd84a6d.png)
 
 
 
@@ -141,11 +142,11 @@ i. 	As a first time user, I want to understand benefits of swimming.
  - a. Health benefits of swimming is indicated in the homepage.
  
  - b. Pictures used in the homepage highlights the main activity offered by the club.
- 
- ![home page](https://user-images.githubusercontent.com/97182442/160867204-eaf27146-d6e6-45f5-b1e9-e5b9dbf97672.png)
 
- 
- 
+
+
+![Home page](https://user-images.githubusercontent.com/97182442/169671932-c8878841-5422-4ed7-83d9-3980059741ed.png)
+
  
  
 ii. A first time user, I would like to know what activities are offered by the club and the associated costs.
@@ -159,11 +160,6 @@ ii. A first time user, I would like to know what activities are offered by the c
  
  - c. The end goal, is to ensure that a first time visitor acquire sufficient information for deciding the best activity for them. To facilitate this, a section covering tariff information for each activity is provided.
  
- 
- 
- ![activities page](https://user-images.githubusercontent.com/97182442/160868023-cbd73a32-cfd1-46d5-87b1-a66acfd58ce9.png)
-
- 
 
 iii. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
 
@@ -171,7 +167,9 @@ iii. As a first time user, I would like to read user reviews/testimonials to bet
  
  
  
- ![activities with footer page](https://user-images.githubusercontent.com/97182442/160868476-2d312d94-8b52-480b-bfc2-221f3ee383b5.png)
+
+![Activities](https://user-images.githubusercontent.com/97182442/169672012-6da4b270-5501-4d09-b377-8fa03247e4d1.png)
+
 
  
   **Returning Visitor Goals**
@@ -185,8 +183,9 @@ i. As a returning visitor, I would like to find more information about a particu
  - b. The user can use this section to ask questions or send feedback to the club.
  
  
- 
- ![contact page](https://user-images.githubusercontent.com/97182442/160869697-22b0206e-14ba-47f7-95c2-a6a122ca197a.png)
+ ![Contact page (1)](https://user-images.githubusercontent.com/97182442/169672043-53b56768-0665-48a9-96dd-ddb949fb5230.png)
+
+
 
  
  ii. As a returning visitor, I would like to sign up for an activity. 
@@ -206,8 +205,9 @@ i. As a returning visitor, I would like to find more information about a particu
  
 
 
+ ![Sign up-form](https://user-images.githubusercontent.com/97182442/169672374-4b958cbe-67ee-4cb4-9315-4a3bcaa94b80.png)
+
  
- ![signup page](https://user-images.githubusercontent.com/97182442/161145075-98a70387-798f-41de-a461-ee0c8f017db9.png)
 
  **Frequent Visitor Goals**
 
@@ -218,6 +218,10 @@ i. As a frequent user, I would like to mix various activities offered by the clu
 
  - b. Opening timings are mentioned correctly for weekdays and weekends.
  
+ 
+ ![Information_page](https://user-images.githubusercontent.com/97182442/169672399-a8999505-b575-4fba-92ae-6a6b1d6e18f4.png)
+ 
+  ![Information page 2](https://user-images.githubusercontent.com/97182442/169672453-35aa9491-1e57-4ac5-9fd8-f39c9de81e27.png)
 
 ii. As a frequent user, I would like to know if new activities are offered by the club.
 
@@ -230,13 +234,9 @@ iii. As a frequent user, I would like to share my experience.
 
  - a. Provision for accessing social media has been made available as footer on each page where the individual can share their experience.
  
- 
- 
- 
- ![information page](https://user-images.githubusercontent.com/97182442/160870253-e0e5f893-501e-4754-8a51-feb20b44ce44.png)
+  ![Information page _3](https://user-images.githubusercontent.com/97182442/169672469-7f763633-86c1-4fc7-be46-3d75f1e4d837.png)
 
- 
- 
+
 ### Further Testing
 1. The website was tested on Google Chrome, Mozilla Firefox, Opera and Microsoft Edge.
 2. The website was checked on different standard devices such as desktop, laptop, few android (Oneplus 8 Pro, Samsung Galaxy) and iPhone (IPhone SE/XR, IPhone 6/7/8) using the devtools device toolbar.
