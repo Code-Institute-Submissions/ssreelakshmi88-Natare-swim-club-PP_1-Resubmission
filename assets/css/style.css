@@ -181,7 +181,7 @@ footer {
 @media only screen and (max-width: 992px) {
     .body {
         width: 100%;
-}
+    }
 
     .what {
 
@@ -212,6 +212,13 @@ footer {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
+
+
+    .main-outer {
+        height: 60vh;
+        width: 100%;
+    }
+
 
     .navbar {
         opacity: 0.95;
@@ -248,7 +255,6 @@ footer {
         position: absolute;
         top: 17px;
         left: 20px;
-
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -375,6 +381,12 @@ footer {
         width: 290px;
     }
 
+    .what {
+        margin-top: 23px;
+        padding-top: 25px;
+        margin-bottom: 51px;
+    }
+
     .what,
     .list {
         width: 100%;
@@ -382,11 +394,27 @@ footer {
         font-size: 1.5vmax;
         text-align: center;
     }
-}
 
-.list p {
-    text-align: justify;
-    text-indent: 10em;
+    .list {
+        padding-top: 18px;
+        margin-left: 22px;
+    }
+
+    .list p {
+        text-align: justify;
+        text-indent: 8em;
+    }
+
+    .social-networks {
+        text-align: left;
+        margin: 1%;
+    }
+
+    .social-networks i {
+        font-size: 250%;
+        margin: 5%;
+
+    }
 }
 
 /* Extremely small devices (portrait tablets and large phones, 375px and up) */
