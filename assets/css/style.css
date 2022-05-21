@@ -321,7 +321,7 @@ footer {
     }
 
     /* Animation of hamburger menu*/
-    
+
     .navbar-container input[type="checkbox"]:checked~.menu {
         transform: translateX(0);
     }
@@ -356,7 +356,7 @@ footer {
 
     img {
 
-        width: 15vw;
+        width: 17vw;
         height: auto;
         float: right;
     }

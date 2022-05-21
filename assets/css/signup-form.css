@@ -11,7 +11,7 @@ header {
 /* Sign up form */
 .sign-up-form {
     width: 20vw;
-    height: 53vw;
+    height: 48vw;
     box-shadow: 0 0 3px 0 rgba(29, 127, 208, 0.518);
     border: 2px blue;
     background: white;
@@ -147,7 +147,7 @@ legend {
     }
 
     .navbar-container {
-        padding-top: -5px;
+        padding-top: 5px;
     }
 
     .sign-up-form {
@@ -189,7 +189,7 @@ legend {
 
     .sign-up-form {
         width: 100vw;
-        height: 69vh;
+        height: 80vh;
 
     }
 }
