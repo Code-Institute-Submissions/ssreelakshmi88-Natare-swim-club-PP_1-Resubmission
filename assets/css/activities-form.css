@@ -1,3 +1,4 @@
+ /* Heading*/
  h2 {
    padding-top: 80px;
    margin-left: 24px;
@@ -6,6 +7,7 @@
    text-decoration: underline;
  }
 
+ /* Gallery*/
  .gallery {
    border: 1px solid #ccc;
    display: flex;
@@ -56,6 +58,9 @@
    padding-top: 31px;
  }
 
+ /* MEDIA QUERIES */
+
+ /* Medium devices (landscape tablets, 992px and up) */
  @media only screen and (max-width: 992px) {
    .responsive {
      width: 50vw;
@@ -71,6 +76,7 @@
    }
  }
 
+ /* Medium devices (landscape tablets, 768px and up) */
  @media only screen and (max-width: 768px) {
 
    .responsive {
@@ -79,6 +85,8 @@
    }
 
  }
+
+ /* Small devices (portrait tablets and large phones, 600px and up) */
 
  @media only screen and (max-width: 600px) {
 
@@ -102,6 +110,8 @@
      text-align: center;
    }
  }
+
+ /* Extremely small devices (portrait tablets and large phones, 375px and up) */
 
  @media only screen and (max-width: 375px) {
 

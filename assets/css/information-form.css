@@ -1,3 +1,5 @@
+/* Information image */
+
 .information-image {
   height: 20vw;
   width: 100%;
@@ -7,6 +9,8 @@
   position: relative;
   z-index: -1;
 }
+
+/* Main heading */
 
 .heading h2 {
   margin-left: 100px;
@@ -20,6 +24,7 @@
   font-size: larger;
 }
 
+/* Table with activities*/
 
 table {
   border-spacing: 100px;
@@ -40,7 +45,7 @@ td {
 }
 
 th {
-  background-color: rgb(190, 55, 55);
+  background-color: rgb(30, 137, 199);
 }
 
 .days {
@@ -61,6 +66,9 @@ th {
   text-indent: 3em;
 }
 
+/* Table with price list*/
+
+
 .price-table p {
 
   margin-left: 80px;
@@ -74,19 +82,10 @@ th {
 
 }
 
-@media only screen and (max-width: 992px) {
+/* MEDIA QUERIES */
 
-
-  .data-col {
-
-    text-align: inherit;
-    text-indent: 0em;
-  }
-}
-
+/* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 600px) {
-
-
 
   .heading h2 {
     font-size: 6vmin;
