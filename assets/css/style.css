@@ -351,12 +351,12 @@ footer {
 
     .logo {
         float: none;
+        height: 1em;
     }
 
     img {
 
         width: 17vw;
-        height: auto;
         float: right;
     }
 
