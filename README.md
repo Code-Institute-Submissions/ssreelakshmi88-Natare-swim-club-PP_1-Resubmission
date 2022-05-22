@@ -136,7 +136,7 @@ In lighthouse devtools, I checked that the colors and the fonts are contrasting 
 
   **First Time Visitor Goals**
   
-i. 	As a first time user, I want to understand benefits of swimming. 
+- i. 	As a first time user, I want to understand benefits of swimming. 
 
 
  - a. Health benefits of swimming is indicated in the homepage.
@@ -149,7 +149,7 @@ i. 	As a first time user, I want to understand benefits of swimming.
 
  
  
-ii. A first time user, I would like to know what activities are offered by the club and the associated costs.
+- ii. A first time user, I would like to know what activities are offered by the club and the associated costs.
 
 
  - a. There are various tabs within the navigation bar which are self-explanatory. The “Activities” tab is specifically tailored for first time users to browse through all activities offered at the club.
@@ -161,7 +161,7 @@ ii. A first time user, I would like to know what activities are offered by the c
  - c. The end goal, is to ensure that a first time visitor acquire sufficient information for deciding the best activity for them. To facilitate this, a section covering tariff information for each activity is provided.
  
 
-iii. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
+- iii. As a first time user, I would like to read user reviews/testimonials to better understand user experience.
 
  - a. Links to social media where the user can read testimonials and reviews provided by our customers.
  
@@ -280,11 +280,11 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type git clone, and then paste the URL you copied in Step 3.
 
-$ git clone https://github.com/ssreelakshmi88/Project-portfolio_1.git
+$ git clone https://github.com/ssreelakshmi88/Natare-swim-club-PP_1-Resubmission.git
 
 7. Press Enter. Your local clone will be created.
 
-$ git clone https://github.com/ssreelakshmi88/Project-portfolio_1.git
+$ git clone https://github.com/ssreelakshmi88/Natare-swim-club-PP_1-Resubmission.git
 
 > *Cloning into `CI-Clone`...
 > remote: Counting objects: 10, done.
