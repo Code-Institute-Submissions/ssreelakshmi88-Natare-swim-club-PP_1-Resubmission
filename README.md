@@ -315,7 +315,7 @@ All images were taken from pexels.com.
 **Acknowledgements**
 
 - A continuous and supportive feedback from the mentor.
-- Suportive feedback from my friend.
+- Supportive feedback from my friend.
 - Tutor support at Code Institute.
 
 
